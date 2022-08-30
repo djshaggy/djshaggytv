@@ -1,0 +1,39 @@
+{
+  "providerName": "Dj Shaggy Venezuela",
+  "lastUpdated": "1987-08-17T00:00:00+02:00",
+  "language": "es",
+  "liveFeeds": [
+    {
+      "id": 123,
+      "title": "Dj Shaggy Venezuela",
+      "content": {
+        "dateAdded": "2019-11-11T22:21:37+00:00",
+        "videos": [
+          {
+            "url": "https://djshaggyradio.com/djshaggytv.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 0,
+        "captions": [],
+        "adBreaks": [
+          "00:15:00",
+          "00:30:00",
+          "00:45:00"
+        ],
+        "language": "es",
+        "trickPlayFiles": []
+      },
+      "thumbnail": "https://cdn-profiles.tunein.com/s295030/images/logog.png?t=160925",
+      "brandedThumbnail": "https://cdn-profiles.tunein.com/s295030/images/logog.png?t=160925",
+      "shortDescription": "Escuchas las mejoes mezclas con Dj Shaggy Venezuela.",
+      "longDescription": "Escuchas lo mejor de los 70's, 80's, 90's, 2000's y lo actual en inglés y español, mezclas exclusivas con Dj Shaggy Venezuela.",
+      "tags": [
+        "linear",
+        "music",
+        "venezuela"
+      ]
+    }
+  ]
+}
